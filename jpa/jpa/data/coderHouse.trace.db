@@ -1,0 +1,12 @@
+2024-10-08 07:53:14.529780-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]ROP TABLE CLIENTE IF EXISTS"; expected "ROLLBACK, REVOKE, RUNSCRIPT, RELEASE, REFRESH"; SQL statement:
+ROP TABLE CLIENTE IF EXISTS [42001-224]
+2024-10-08 07:57:22.672866-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]ROP TABLE CLIENTE IF EXISTS"; expected "ROLLBACK, REVOKE, RUNSCRIPT, RELEASE, REFRESH"; SQL statement:
+ROP TABLE CLIENTE IF EXISTS [42001-224]
+2024-10-08 07:59:06.294665-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]ROP TABLE CLIENTE IF EXISTS"; expected "ROLLBACK, REVOKE, RUNSCRIPT, RELEASE, REFRESH"; SQL statement:
+ROP TABLE CLIENTE IF EXISTS [42001-224]
+2024-10-08 08:43:59.155691-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]ROP TABLE CLIENTE IF EXISTS"; expected "ROLLBACK, REVOKE, RUNSCRIPT, RELEASE, REFRESH"; SQL statement:
+ROP TABLE CLIENTE IF EXISTS [42001-224]
